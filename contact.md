@@ -5,9 +5,9 @@ title: "Contact"
 
 Carlos Eduardo Barbosa​​\\
 IAG - USP, Departamento de Astronomia\\
+Office C311\\
 R. do Matão, 1226 - Butantã, São Paulo - SP \\
-ZIP code: 05508-090, Brazil\\
-Office C311
+ZIP code: 05508-090, Brazil
 
 Tel: +55 11 3091 2750
 
