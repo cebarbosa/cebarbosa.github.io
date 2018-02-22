@@ -6,9 +6,24 @@
 </description>
     <link>http://cebarbosa.github.io/</link>
     <atom:link href="http://cebarbosa.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Feb 2018 12:21:51 -0300</pubDate>
-    <lastBuildDate>Wed, 21 Feb 2018 12:21:51 -0300</lastBuildDate>
+    <pubDate>Thu, 22 Feb 2018 10:53:05 -0300</pubDate>
+    <lastBuildDate>Thu, 22 Feb 2018 10:53:05 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to my new website!</title>
+        <description>&lt;p&gt;Hi! This is my first post in my new website, now hosted on GitHub and using the Jekyll engine! There’s still some work to be done for the transition, and I will keep this project and my current website &lt;a href=&quot;www.cebarbosa.com&quot;&gt;www.cebarbosa.com&lt;/a&gt;  still as is during the time of transition. However, I am already happy enough with the results, and I feel encouraged with this platform to start a blog regarding (mostly) scientific topics.&lt;/p&gt;
+
+&lt;p&gt;I intend to use this blog for miscelaneous purposes related to my work as an astronomer, such as programming, comments on papers in my field, divulgation for own work and projects I am involved, and other things that I may find useful to share. Keep tuned for updates (I will include RSS support in the website soon), and let me know if you have some blog post idea!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Feb 2018 09:40:00 -0300</pubDate>
+        <link>http://cebarbosa.github.io/update/2018/02/22/welcome-to-my-new-website.html</link>
+        <guid isPermaLink="true">http://cebarbosa.github.io/update/2018/02/22/welcome-to-my-new-website.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
