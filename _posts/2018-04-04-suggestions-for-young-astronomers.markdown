@@ -2,9 +2,7 @@
 layout: post
 title:  "Suggestions for an young astronomer looking for resources
 date:   2018-04-04 11:02:00 -0600
-categories: 
-- software
-- python
+categories: astronomy
 ---
 
 At the beginning of a career as an astronomer, there is an apparently insurmoufindntable number of things that we should get familiar even before we start to work in the science of our projects, which are seldom covered in our undergrad years: to learn the nomenclature and jargon of our fields, to understand the goals of our projects and how to achieve that goal, and to use programming techniques to get the job done. 
