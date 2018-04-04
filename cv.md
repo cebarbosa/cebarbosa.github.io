@@ -45,7 +45,7 @@ Previous Work Experience
     * My duties included a range of activities including the installation and administration of computers for the users, digitalization of numerous rare books and old slides and other assigned tasks. I have built a positive relationship with other members of the staff.
 
 * **2000 - 2005 CNC Lathe Operator, York International**
-    * My first employment was an apprenditice in Machining while I was studying in the SENAI technical school. There I developed skills to operate machine tools, such as lathes, miling machines, rectifiers and vertical drills, together with the necessary skills in metrology to perform precision tasks. At the same time, I ger my first contact with programming skills, where I developed several routines to use in CNC lathes, which became my main task in the last year working there. This experience was very positive to my formation and to learn to work in collaboration, and helped me  to cement my professional attitude with responsibility, ethics and constant focus. 
+    * My first employment was an apprenticeship in Machining while I was studying in the SENAI technical school. There I developed skills to operate machine tools, such as lathes, miling machines, rectifiers and vertical drills, together with the necessary skills in metrology to perform precision tasks. At the same time, I ger my first contact with programming skills, where I developed several routines to use in CNC lathes, which became my main task in the last year working there. This experience was very positive to my formation and to learn to work in collaboration, and helped me  to cement my professional attitude with responsibility, ethics and constant focus. 
   
 Skills
 ======
