@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suggestions for an young astronomer looking for resources
+title:  "Suggestions for an young astronomer looking for resources"
 date:   2018-04-04 11:02:00 -0600
 categories: astronomy
 ---
