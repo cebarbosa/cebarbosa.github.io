@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Don't panic! Life hacks for grad students beginning their careers in Astronomy"
-subtitle: "I. The ADS"
+title:  "Don't panic! Life hacks for grad students beginning their careers in Astronomy. I. The ADS"
 date:   2018-04-04 11:02:00 -0600
 categories: astronomy
 ---
@@ -16,7 +15,7 @@ Life hacks in the ADS
 We have to read (a lot) of papers to make our own, and there is a simple place where you can get them all: the [ADS abstract service](http://adsabs.harvard.edu/abstract_service.html), where you can search for papers by name, title, keyword, etc. **The first life hack that I use all the time here is the use of the caret symbol "^" in the author list to indicate the name of the first author.** In the example bellow, I am showing how you can easily find my latest paper using very little effort.
 
 
-![ADS usage example]({{ site.url }}/assets/ads_caret.png)
+![ADS usage example]({{ site.url }}/assets/ads_caret.png){: .center-image }
 
 If you hit the search using the exemple above, you will find a few papers (as of today, only three), which will make your life easier when looking for a paper. There are a few interesting things in the query results page, such as sorting by a number of options (citations, date, etc) which you may find useful. In particular, this page can be used to generate a complete bibliography (such as your own to be used in your CV) among other things. However, what you do most of the time is simply find the paper you want and them clicking on it to get more options. 
 
