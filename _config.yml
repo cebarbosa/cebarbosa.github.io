@@ -16,3 +16,5 @@ url: "http://cebarbosa.github.io" # the base hostname & protocol for your site
 github_username:  cebarbosa
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
