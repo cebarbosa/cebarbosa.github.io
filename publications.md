@@ -2,11 +2,13 @@
 layout: page
 title: "Publications"
 ---
-[Google scholar profile](https://scholar.google.com.ar/citations?user=Ry6d_JcAAAAJ&hl=en)
+Profiles and metrics
+=====
+* [Google scholar profile](https://scholar.google.com.ar/citations?user=Ry6d_JcAAAAJ&hl=en)
 
-[ResearcherID profile](http://www.researcherid.com/rid/J-1146-2016)
+* [ResearcherID profile](http://www.researcherid.com/rid/J-1146-2016)
 
-[ ORCID profile](https://orcid.org/0000-0002-5292-2782)
+* [ORCID profile](https://orcid.org/0000-0002-5292-2782)
 
 References
 =====

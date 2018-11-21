@@ -2,7 +2,11 @@
 layout: page
 title: "CV"
 ---
-[Clique here](assets/cebarbosa_cv.pdf) for a pdf version of my CV. 
+Links
+=====
+* [PDF version of my CV](assets/cebarbosa_cv.pdf) 
+
+* [Lattes platform CV](http://lattes.cnpq.br/2024628961585417)
 
 Academic positions
 ======
@@ -13,7 +17,7 @@ Academic positions
 Education
 ======
 * **2012 - 2016 Ph.D in Astronomy, Universidade de São Paulo, IAG**
-    * **Doctoral Thesis:** [Kinematics and Stellar Populations of Galaxies in the Local Universe](assets/thesis.pdf)  
+    * **Doctoral Thesis:** [Kinematics and Stellar Populations of Galaxies in the Local Universe](assets/thesis.pdf) 
     * **Supervisor:** Prof. Cláudia Mendes de Oliveira
     * **Funding:** [FAPESP](http://www.fapesp.br/en/) 
     * **Brief Synopsis of Research:** The environment has an important role in the morphological transformations of galaxies. Using spectroscopic observations, we have studied the physical mechanisms that led to morphological transformations at the environments of groups and clusters. By the study of the kinematics and stellar populations of the cD galaxy NGC 3311 at the core of the Hydra I cluster, we have shown that the formation of its diffuse halo happened recently, with the merging events related to the formation of the BCG itself being responsible to unbound stars that ended up in the cD halo, with a contribution of satellite galaxies in groups. During my PhD I have also organized and led seminars in our research group, and assisted undergraduates in disciplines.
