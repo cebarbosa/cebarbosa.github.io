@@ -2,6 +2,7 @@
 layout: page
 title: "CV"
 ---
+[Clique here](assets/cebarbosa_cv.pdf) for a pdf version of my CV. 
 
 Academic positions
 ======
