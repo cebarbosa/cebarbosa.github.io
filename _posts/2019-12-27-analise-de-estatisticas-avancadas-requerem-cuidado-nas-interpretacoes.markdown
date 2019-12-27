@@ -2,7 +2,7 @@
 layout: post
 title:  "Análise de estatísticas avançadas requerem cuidado nas interpretações"
 date:   2019-12-27 12:26:21 MST
-categories: football, statistics
+categories: datascience football
 ---
 A final do mundial de clubes recentemente entre Flamengo e Liverpool ainda povoa muito do noticiário esportivo brasileiro. Apesar de eu não torcer para nenhum dos times do torneio, eu tenho uma grande conexão com o futebol brasileiro desde as minhas mais remotas lembranças, e é um fato que o futebol apresentado pelo Flamengo de Jorge Jesus nos últimos meses é um grande exemplo de como sair da mediocridade da qualidade do futebol tupiniquim das últimas duas décadas, desde que o Brasil passou de um interessante centro futebolístico e escola de referência mundial para o atual cenário de exportador de pé-de-obra e futebol sofrível.
 
