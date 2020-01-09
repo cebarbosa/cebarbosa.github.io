@@ -17,15 +17,15 @@ Academic experience
 Education
 ======
 * **2012 - 2016 PhD in Astronomy, Universidade de São Paulo, IAG**
-    * **Doctoral Thesis:** [Kinematics and Stellar Populations of Galaxies in the Local Universe](assets/thesis.pdf) 
+    * **Doctoral Thesis:** [Kinematics and Stellar Populations of Galaxies in the Local Universe](https://teses.usp.br/teses/disponiveis/14/14131/tde-22042018-235533/en.php) 
     * **Supervisor:** Prof. Cláudia Mendes de Oliveira
 
  * **2009 - 2011 Master's Degree in Astronomy, Universidade de São Paulo, IAG**
-    * **Master's Thesis:** [Photometry, Decomposition, and Correlations for Nearby Spiral Galaxies from the GHASP Survey](assets/master_thesis.pdf) (Portuguese)
+    * **Master's Thesis:** [Photometry, Decomposition, and Correlations for Nearby Spiral Galaxies from the GHASP Survey](https://teses.usp.br/teses/disponiveis/14/14131/tde-12122011-171343/en.php) (Portuguese)
     * **Supervisor :** Prof. Cláudia Mendes de Oliveira
 
  * **2005 - 2009 Bachelor's degree in Physics, Universidade de São Paulo, Institute of Physics**
-    * **Habilitation in Astronomy**
+    * **Minor in Astronomy**
     * **Undergraduate research:** The role of the anesthetics on neural signal propagation and the cellular membrane thermomecanic properties
     * **Supervisor :** Prof. Carla Goldman
     
