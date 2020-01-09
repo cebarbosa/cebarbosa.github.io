@@ -3,17 +3,17 @@ layout: page
 title: "CV"
 ---
 
+* [Curriculum Vitae](assets/cebarbosa_cv.pdf)
+* [ORCID profile](https://orcid.org/0000-0002-5292-2782)
+
 Academic positions
 ======
 
-* **02/2019 - present: Research Associate, University of Arizona, Steward Observatory**
-    * **Project:** Spatially resolved study of the initial mass function of nearby galaxies in the near-infrared with WIFIS
-    * **Funding:** [FAPESP](http://www.fapesp.br/en/)  BEPE
+* **02/2019 - present: Research Associate, Steward Observatory, University of Arizona**
     * **Supervisor:** Dr. Dennis Zaristky
 
 * **12/2016 - 01/2019: Post-Doctoral Fellow, University of São Paulo, IAG**
-    * **Project:** Galaxy evolution in different environments using spatially resolved kinematics and stellar populations
-    * **Funding:** FAPESP BEPE
+
     * **Supervisor:** Dr. Cláudia Mendes de Oliveira
 
 
