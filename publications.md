@@ -2,7 +2,7 @@
 layout: page
 title: "Publications"
 ---
-* **C. E. Barbosa**, D. Zaritsky, R. Donnerstein, H. Zhang, A. Dey, C. M. Mendes de Oliveira, L. Sampedro, A. Molino, M. V. Costa-Duarte, P. Coelho, A. Cortesi, F. R. Herpich, J. A. Hernandez-Jimenez, T. Santos-Silva, E. Pereira, A. Werle, R. A. Overzier, R. Cid Fernandes, A. V. Smith Castelli, T. Ribeiro, W. Schoenell, and A. Kanaan. One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field. *Submitted to AAS*.
+* **C. E. Barbosa**, D. Zaritsky, R. Donnerstein, H. Zhang, A. Dey, C. M. Mendes de Oliveira, L. Sampedro, A. Molino, M. V. Costa-Duarte, P. Coelho, A. Cortesi, F. R. Herpich, J. A. Hernandez-Jimenez, T. Santos-Silva, E. Pereira, A. Werle, R. A. Overzier, R. Cid Fernandes, A. V. Smith Castelli, T. Ribeiro, W. Schoenell, and A. Kanaan. [One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field](https://ui.adsabs.harvard.edu/abs/2020arXiv200205171B/abstract). *accepted for publication in ApJS*.
 
 * C. Mendes de Oliveira, T. Ribeiro, W. Schoenell, A. Kanaan, R. A. Overzier, A. Molino, L. Sampedro, P. Coelho, **C. E. Barbosa**, et al. 2019, Monthly Notices of the Royal Astronomical Society [The Southern Photometric Local Universe Survey (S-PLUS): improved SEDs, morphologies, and redshifts with 12 optical filters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489..241M)
 

@@ -8,12 +8,13 @@ title: "CV"
 
 Academic experience
 ======
-* **02/2019 - present: Research Associate, Steward Observatory, University of Arizona**
-    * **Supervisor:** Prof. Dennis Zaristky
 
-* **12/2016 - 01/2019: Post-Doctoral Fellow, University of São Paulo, IAG**
+* **12/2016 - Now: Post-Doctoral Fellow, University of São Paulo, IAG**
     * **Supervisor:** Prof. Cláudia Mendes de Oliveira
 
+* **02/2019 - 01/2020: Research Associate, Steward Observatory, University of Arizona**
+    * **Supervisor:** Prof. Dennis Zaristky
+    
 Education
 ======
 * **2012 - 2016 PhD in Astronomy, Universidade de São Paulo, IAG**
