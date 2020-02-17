@@ -9,7 +9,7 @@
 title: Carlos Eduardo Barbosa
 email: kadu.barbosa [at] gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    &copy; 2018 by C.E. Barbosa. 
+    &copy; 2020 by C.E. Barbosa. 
     Powered by Jekyll & Minimal Mistakes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cebarbosa.github.io" # the base hostname & protocol for your site
