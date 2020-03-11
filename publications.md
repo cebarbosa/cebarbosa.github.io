@@ -2,13 +2,15 @@
 layout: page
 title: "Publications"
 ---
-* **C. E. Barbosa**, D. Zaritsky, R. Donnerstein, H. Zhang, A. Dey, C. M. Mendes de Oliveira, L. Sampedro, A. Molino, M. V. Costa-Duarte, P. Coelho, A. Cortesi, F. R. Herpich, J. A. Hernandez-Jimenez, T. Santos-Silva, E. Pereira, A. Werle, R. A. Overzier, R. Cid Fernandes, A. V. Smith Castelli, T. Ribeiro, W. Schoenell, and A. Kanaan. [One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field](https://ui.adsabs.harvard.edu/abs/2020arXiv200205171B/abstract). *accepted for publication in ApJS*.
+* T. Richtler, M. Hilker, M. Arnaboldi and **C. E. Barbosa**. *Dust and star formation in the centre of NGC 3311*, submitted to Astronomy and Astrophysics
+
+* **C. E. Barbosa**, D. Zaritsky, R. Donnerstein, H. Zhang, A. Dey, C. M. Mendes de Oliveira, L. Sampedro, A. Molino, M. V. Costa-Duarte, P. Coelho, A. Cortesi, F. R. Herpich, J. A. Hernandez-Jimenez, T. Santos-Silva, E. Pereira, A. Werle, R. A. Overzier, R. Cid Fernandes, A. V. Smith Castelli, T. Ribeiro, W. Schoenell, and A. Kanaan. [One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field](https://ui.adsabs.harvard.edu/abs/2020arXiv200205171B/abstract). *accepted for publication in the Astrophysical Journal Supplement Series*.
 
 * C. Mendes de Oliveira, T. Ribeiro, W. Schoenell, A. Kanaan, R. A. Overzier, A. Molino, L. Sampedro, P. Coelho, **C. E. Barbosa**, et al. 2019, Monthly Notices of the Royal Astronomical Society [The Southern Photometric Local Universe Survey (S-PLUS): improved SEDs, morphologies, and redshifts with 12 optical filters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489..241M)
 
-* M. V. Costa-Duarte, L. Sampedro, A. Molino, H. S. Xavier, F. R. Herpich, A. L. Chies-Santos, **C. E. Barbosa**, A. Cortesi, W. Schoenell, A. Kanaan, T. Ribeiro, C. Mendes de Oliveira, S. Akras, A. Alvarez-Candal, C. E. Barbosa, et al. [The S-PLUS: a star/galaxy classification based on a Machine Learning approach](https://ui.adsabs.harvard.edu/abs/2019arXiv190908626C). *Submitted to MNRAS*
+* M. V. Costa-Duarte, L. Sampedro, A. Molino, H. S. Xavier, F. R. Herpich, A. L. Chies-Santos, **C. E. Barbosa**, A. Cortesi, W. Schoenell, A. Kanaan, T. Ribeiro, C. Mendes de Oliveira, S. Akras, A. Alvarez-Candal, C. E. Barbosa, et al. [The S-PLUS: a star/galaxy classification based on a Machine Learning approach](https://ui.adsabs.harvard.edu/abs/2019arXiv190908626C). Submitted to the Monthly Notes of the Royal Astronomical Society.
 
-* A. Molino, M. V. Costa-Duarte, L. Sampedro, F. R. Herpich, Jr. Sodré, L., C. Mendes de Oliveira, W. Schoenell, **C. E. Barbosa**, et al. [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://ui.adsabs.harvard.edu/abs/2019arXiv190706315M) *Submitted to MNRAS*
+* A. Molino, M. V. Costa-Duarte, L. Sampedro, F. R. Herpich, Jr. Sodré, L., C. Mendes de Oliveira, W. Schoenell, **C. E. Barbosa**, et al. [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://ui.adsabs.harvard.edu/abs/2019arXiv190706315M) Submitted to the Monthly Notes of the Royal Astronomical Society.
 
 * M. Hilker, T. Richtler, **C. E. Barbosa**, M. Arnaboldi, L. Coccato, and C. Mendes de Oliveira. 2018, *Astronomy and Astrophysics* , [The Hydra I cluster core. II. Kinematic complexity in a rising velocity dispersion profile around the cD galaxy NGC 3311](http://cdsads.u-strasbg.fr/abs/2018A%26A...619A..70H)
 
