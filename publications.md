@@ -2,11 +2,11 @@
 layout: page
 title: "Publications"
 ---
+* T. Richtler, M. Hilker, M. Arnaboldi and **C. E. Barbosa**. [Dust and star formation in the centre of NGC 3311](https://ui.adsabs.harvard.edu/abs/2020arXiv200810662R/abstract), accepted for publication on Astronomy and Astrophysics
+
 * S. Bonoli. A. Marín-Franch, J. Varela et al. [The miniJPAS survey: a preview of the Universe in 56 colours](https://ui.adsabs.harvard.edu/abs/2020arXiv200701910B/abstract), ArXiv eprints, July 2020.
 
 * A. Molino, M. V. Costa-Duarte, L. Sampedro, F. R. Herpich, Jr. Sodré, L., C. Mendes de Oliveira, W. Schoenell, **C. E. Barbosa**, et al. [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.1792M/abstract), accepted for publication in Monthly Notes of the Royal Astronomical Society.
-
-* T. Richtler, M. Hilker, M. Arnaboldi and **C. E. Barbosa**. *Dust and star formation in the centre of NGC 3311*, submitted to Astronomy and Astrophysics
 
 * **C. E. Barbosa**, D. Zaritsky, R. Donnerstein, H. Zhang, A. Dey, C. M. Mendes de Oliveira, L. Sampedro, A. Molino, M. V. Costa-Duarte, P. Coelho, A. Cortesi, F. R. Herpich, J. A. Hernandez-Jimenez, T. Santos-Silva, E. Pereira, A. Werle, R. A. Overzier, R. Cid Fernandes, A. V. Smith Castelli, T. Ribeiro, W. Schoenell, and A. Kanaan. [One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...46B/abstract). The Astrophysical Journal Supplement Series, Volume 247, Issue 2, id.46, April 2020.
 
@@ -28,6 +28,6 @@ C. Adami, and M. Marcelin. [GHASP: an H&#945; kinematic survey of spiral galaxie
 
 * M. Hilker, **C. E. Barbosa**, T. Richtler, L. Coccato, M. Arnaboldi, and C. Mendes de Oliveira. 2015,  [A 3D view of the Hydra I galaxy cluster core - I. Kinematic substructures](http://adsabs.harvard.edu/abs/2015IAUS..309..221H). Galaxies in 3D across the Universe, Proceedings of the International Astronomical Union, IAU Symposium, Volume 309, pp. 221-222, February 2015.
 
-* J. C. Basto Pineda, C. Mendes de Oliveira, **C. E. Barbosa**, P. Amram, and V. Perret. [The CUSP/CORE problem from a 2D view](http://adsabs.harvard.edu/abs/2012dsu..workE..23B).  
+* J. C. Basto Pineda, C. Mendes de Oliveira, **C. E. Barbosa**, P. Amram, and V. Perret. [The CUSP/CORE problem from a 2D view](http://adsabs.harvard.edu/abs/2012dsu..workE..23B). 
 Proceedings of VIII International Workshop on the Dark Side of the Universe (DSU 2012). June 10-15, 2012.
 
