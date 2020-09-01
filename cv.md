@@ -5,9 +5,8 @@ title: "CV"
 
 * [Curriculum Vitae](assets/cebarbosa_cv.pdf)
 
-* <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5292-2782" href="https://orcid.org/0000-0002-5292-2782" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-5292-2782</a></div>
+* Other profiles: <span id="badgeCont198"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont198&rid=Y-2738-2019&size=small"></script></span> <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5292-2782" href="https://orcid.org/0000-0002-5292-2782" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
 
-* <span id="badgeCont198"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont198&rid=Y-2738-2019&size=small"></script></span>
 Academic experience
 ======
 
