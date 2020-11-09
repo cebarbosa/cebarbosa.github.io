@@ -2,6 +2,17 @@
 layout: page
 title: "Publications"
 ---
+
+* **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. *A preserved red nugget in the heart of the BCG of the Hydra I cluster revealed with MUSE 2D stellar population analysis*. A&A, submitted.
+
+* **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. *What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies*. A&A, submitted.
+
+* M. L. Buzzo, B. Ziegler, C. Mendes de Oliveira, M. Verdugo, **C. E. Barbosa**, B. Ciocan, P. Papaderos, S. Torres-Flores, and P. Amram. *Physical and kinematic conditions of the local merging galaxy NGC 1487*. MNRAS, submitted.
+
+* L. M. I. Nakazono, C. Mendes de Oliveira, N. S. T. Hirata, S. Jeram, C. Queiroz, S. S. Eikenberry, A. H. Gonzalez, R. Abramo, M. Overzier R. Espadoto, A. Martinazzo, L. Sampedro, F. R. Herpich, A. Cortesi, F. Almeida-Fernandes, A. Werle, **C. E. Barbosa**, L. Sodré Jr., E. V. Lima, K. Menéndez-Delmestre, S. Akras, A. Alvarez-Candal, A. R. Lopes, E. Telles, W. Schoenell, A. Kanaan, and T. Ribeiro. *On the discovery of stars, quasars, and galaxies in the Southern Hemisphere with S-PLUS*, MNRAS, submitted.
+
+* C. Lima-Dias, A. Monachesi, S. Torres-Flores, A. Cortesi, D. Hernández-Lang, **C. E. Barbosa**, C. Mendes de Oliveira, D. Olave-Rojas, D. Pallero, L. Sampedro, A. Molino, F. R. Herpich, Y. L. Jaffé, R. Amorı́n, A. L. Chies-Santos, P. Dimauro, E. Telles, P. A. A. Lopes, A. Alvarez-Cand al, F. Ferrari, A. Kanaan, T. Ribeiro, and W. Schoenell. [An environmental dependence of the physical and structural properties in the Hydra Cluster galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3113L/abstract). MNRAS, forthcoming.
+
 * T. Richtler, M. Hilker, M. Arnaboldi and **C. E. Barbosa**. [Dust and star formation in the centre of NGC 3311](https://ui.adsabs.harvard.edu/abs/2020arXiv200810662R/abstract), accepted for publication on Astronomy and Astrophysics
 
 * S. Bonoli. A. Marín-Franch, J. Varela et al. [The miniJPAS survey: a preview of the Universe in 56 colours](https://ui.adsabs.harvard.edu/abs/2020arXiv200701910B/abstract), ArXiv eprints, July 2020.
