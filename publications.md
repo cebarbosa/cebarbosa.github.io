@@ -5,7 +5,7 @@ title: "Publications"
 
 * **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. *A preserved red nugget in the heart of the BCG of the Hydra I cluster revealed with MUSE 2D stellar population analysis*. A&A, submitted.
 
-* **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies](https://ui.adsabs.harvard.edu/abs/2020arXiv201201431B/abstract), accepted for publication in Astronomy and Astrophysics.
+* **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. [What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies](https://ui.adsabs.harvard.edu/abs/2020arXiv201201431B/abstract), accepted for publication in Astronomy and Astrophysics.
 
 * M. L. Buzzo, B. Ziegler, C. Mendes de Oliveira, M. Verdugo, **C. E. Barbosa**, B. Ciocan, P. Papaderos, S. Torres-Flores, and P. Amram. *Physical and kinematic conditions of the local merging galaxy NGC 1487*. MNRAS, submitted.
 
