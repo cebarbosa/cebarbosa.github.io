@@ -5,19 +5,21 @@ title: "Publications"
 
 * **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. *A preserved red nugget in the heart of the BCG of the Hydra I cluster revealed with MUSE 2D stellar population analysis*. A&A, submitted.
 
-* **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. *What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies*. A&A, submitted.
+* **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies](https://ui.adsabs.harvard.edu/abs/2020arXiv201201431B/abstract), accepted for publication in Astronomy and Astrophysics.
 
 * M. L. Buzzo, B. Ziegler, C. Mendes de Oliveira, M. Verdugo, **C. E. Barbosa**, B. Ciocan, P. Papaderos, S. Torres-Flores, and P. Amram. *Physical and kinematic conditions of the local merging galaxy NGC 1487*. MNRAS, submitted.
 
 * L. M. I. Nakazono, C. Mendes de Oliveira, N. S. T. Hirata, S. Jeram, C. Queiroz, S. S. Eikenberry, A. H. Gonzalez, R. Abramo, M. Overzier R. Espadoto, A. Martinazzo, L. Sampedro, F. R. Herpich, A. Cortesi, F. Almeida-Fernandes, A. Werle, **C. E. Barbosa**, L. Sodré Jr., E. V. Lima, K. Menéndez-Delmestre, S. Akras, A. Alvarez-Candal, A. R. Lopes, E. Telles, W. Schoenell, A. Kanaan, and T. Ribeiro. *On the discovery of stars, quasars, and galaxies in the Southern Hemisphere with S-PLUS*, MNRAS, submitted.
 
-* C. Lima-Dias, A. Monachesi, S. Torres-Flores, A. Cortesi, D. Hernández-Lang, **C. E. Barbosa**, C. Mendes de Oliveira, D. Olave-Rojas, D. Pallero, L. Sampedro, A. Molino, F. R. Herpich, Y. L. Jaffé, R. Amorı́n, A. L. Chies-Santos, P. Dimauro, E. Telles, P. A. A. Lopes, A. Alvarez-Cand al, F. Ferrari, A. Kanaan, T. Ribeiro, and W. Schoenell. [An environmental dependence of the physical and structural properties in the Hydra Cluster galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3113L/abstract). MNRAS, forthcoming.
+* C. Lima-Dias, A. Monachesi, S. Torres-Flores, A. Cortesi, D. Hernández-Lang, **C. E. Barbosa**, C. Mendes de Oliveira, D. Olave-Rojas, D. Pallero, L. Sampedro, A. Molino, F. R. Herpich, Y. L. Jaffé, R. Amorı́n, A. L. Chies-Santos, P. Dimauro, E. Telles, P. A. A. Lopes, A. Alvarez-Cand al, F. Ferrari, A. Kanaan, T. Ribeiro, and W. Schoenell. [An environmental dependence of the physical and structural properties in the Hydra Cluster galaxies](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3113L/abstract). Monthly Notices of the Royal Astronomical Society, Volume 500, Issue 1, pp.1323-1339, January 2021.
 
-* T. Richtler, M. Hilker, M. Arnaboldi and **C. E. Barbosa**. [Dust and star formation in the centre of NGC 3311](https://ui.adsabs.harvard.edu/abs/2020arXiv200810662R/abstract), accepted for publication on Astronomy and Astrophysics
+
+* T. Richtler, M. Hilker, M. Arnaboldi and **C. E. Barbosa**. [Dust and star formation in the centre of NGC 3311](https://ui.adsabs.harvard.edu/abs/2020arXiv200810662R/abstract). Astronomy and Astrophysics, Volume 643, id.A119, 9 pp., November 2020.
 
 * S. Bonoli. A. Marín-Franch, J. Varela et al. [The miniJPAS survey: a preview of the Universe in 56 colours](https://ui.adsabs.harvard.edu/abs/2020arXiv200701910B/abstract), ArXiv eprints, July 2020.
 
-* A. Molino, M. V. Costa-Duarte, L. Sampedro, F. R. Herpich, Jr. Sodré, L., C. Mendes de Oliveira, W. Schoenell, **C. E. Barbosa**, et al. [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.1792M/abstract), accepted for publication in Monthly Notes of the Royal Astronomical Society.
+* A. Molino, M. V. Costa-Duarte, L. Sampedro, F. R. Herpich, Jr. Sodré, L., C. Mendes de Oliveira, W. Schoenell, **C. E. Barbosa**, et al. [Assessing the photometric redshift precision of the S-PLUS survey: the Stripe-82 as a test-case](https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.1792M/abstract). Monthly Notices of the Royal Astronomical Society, Volume 499, Issue 3, pp.3884-3908, June 2020.
+
 
 * **C. E. Barbosa**, D. Zaritsky, R. Donnerstein, H. Zhang, A. Dey, C. M. Mendes de Oliveira, L. Sampedro, A. Molino, M. V. Costa-Duarte, P. Coelho, A. Cortesi, F. R. Herpich, J. A. Hernandez-Jimenez, T. Santos-Silva, E. Pereira, A. Werle, R. A. Overzier, R. Cid Fernandes, A. V. Smith Castelli, T. Ribeiro, W. Schoenell, and A. Kanaan. [One hundred SMUDGes in S-PLUS: ultra-diffuse galaxies flourish in the field](https://ui.adsabs.harvard.edu/abs/2020ApJS..247...46B/abstract). The Astrophysical Journal Supplement Series, Volume 247, Issue 2, id.46, April 2020.
 
