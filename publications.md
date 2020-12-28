@@ -44,3 +44,5 @@ C. Adami, and M. Marcelin. [GHASP: an H&#945; kinematic survey of spiral galaxie
 1. J. C. Basto Pineda, C. Mendes de Oliveira, **C. E. Barbosa**, P. Amram, and V. Perret. [The CUSP/CORE problem from a 2D view](http://adsabs.harvard.edu/abs/2012dsu..workE..23B). 
 Proceedings of VIII International Workshop on the Dark Side of the Universe (DSU 2012). June 10-15, 2012.
 
+{: reversed="reversed"}
+
