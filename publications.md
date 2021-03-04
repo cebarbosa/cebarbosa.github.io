@@ -2,10 +2,13 @@
 layout: page
 title: "Publications"
 ---
+20. T. Santos-Silva, H. D. Perottoni, F. Almeida-Fernandes,  J. Gregorio-Hetem, V. Jatenco-Pereira, C. Mendes de Oliveira, T. Montmerle, E. Bica, C. Bonatto, H. Monteiro, W. S. Dias, **C. E. Barbosa**, B. Fernandes, P. A. B. Galli, M. Borges, A. Kanaan, T. Ribeiro, W Schoenell. *Canis Major OB1 stellar groups contents revealed by GAIA*. MNRAS, submitted.
 
-18. **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. [A preserved red nugget in the heart of the BCG of the Hydra I cluster revealed with MUSE 2D stellar population analysis](https://arxiv.org/abs/2012.11609). A&A, submitted.
+19. D. D. Whitten, V. M. Placco, T. C. Beers, D. An, Y. S. Lee, F. Almeida-Fernandes, F. R. Herpich, S. Daflon, **C. E. Barbosa**,  H. D. Perottoni, S. Rossi, P. B. Tissera, J. Yoon, K. Youakim, W. Schoenell, R. Ribeiro, A. Kanaan. *The Photometric Metallicity and Carbon Distributions of the Milky Way’s Halo and Solar Neighborhood from S-PLUS Observations of SDSS Stripe 82*. ApJ, submitted.
 
-17. **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. [What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies](https://ui.adsabs.harvard.edu/abs/2020arXiv201201431B/abstract), accepted for publication in Astronomy and Astrophysics.
+18. **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. [A preserved red nugget in the heart of the BCG of the Hydra I cluster revealed with MUSE 2D stellar population analysis](https://arxiv.org/abs/2012.11609). Accepted for publication in Astronomy and AstrophysicsA&A.
+
+17. **C. E. Barbosa**, C. Spiniello, M. Arnaboldi, L. Coccato, T. Richtler, and M. Hilker. [What does (not) drive variation of the low-mass end of the stellar initial mass function of early-type galaxies](https://ui.adsabs.harvard.edu/abs/2020arXiv201201431B/abstract).
 
 16. M. L. Buzzo, B. Ziegler, C. Mendes de Oliveira, M. Verdugo, **C. E. Barbosa**, B. Ciocan, P. Papaderos, S. Torres-Flores, and P. Amram. *Physical and kinematic conditions of the local merging galaxy NGC 1487*. MNRAS, submitted.
 
@@ -41,8 +44,7 @@ C. Adami, and M. Marcelin. [GHASP: an H&#945; kinematic survey of spiral galaxie
 
 2. M. Hilker, **C. E. Barbosa**, T. Richtler, L. Coccato, M. Arnaboldi, and C. Mendes de Oliveira. 2015,  [A 3D view of the Hydra I galaxy cluster core - I. Kinematic substructures](http://adsabs.harvard.edu/abs/2015IAUS..309..221H). Galaxies in 3D across the Universe, Proceedings of the International Astronomical Union, IAU Symposium, Volume 309, pp. 221-222, February 2015.
 
-1. J. C. Basto Pineda, C. Mendes de Oliveira, **C. E. Barbosa**, P. Amram, and V. Perret. [The CUSP/CORE problem from a 2D view](http://adsabs.harvard.edu/abs/2012dsu..workE..23B). 
+1. J. C. Basto Pineda, C. Mendes de Oliveira, **C. E. Barbosa**, P. Amram, and V. Perret. [The CUSP/CORE problem from a 2D view](http://adsabs.harvard.edu/abs/2012dsu..workE..23B).
 Proceedings of VIII International Workshop on the Dark Side of the Universe (DSU 2012). June 10-15, 2012.
 
 {: reversed="reversed"}
-
