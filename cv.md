@@ -9,10 +9,12 @@ title: "CV"
 
 * <span id="badgeCont198"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont198&rid=Y-2738-2019&size=small"></script></span> 
 
-Academic experience
+Experience
 ======
 
-* **12/2016 - Now: Post-Doctoral Fellow, University of São Paulo, IAG**
+* **08/2021 - Now: Data Scientist, Global Hitss**
+
+* **12/2016 - 08/2021: Post-Doctoral Fellow, University of São Paulo, IAG**
     * **Supervisor:** Prof. Cláudia Mendes de Oliveira
 
 * **02/2019 - 01/2020: Research Associate, Steward Observatory, University of Arizona**
@@ -70,12 +72,3 @@ Organizing Committees
 * **ESO/NUVA/IAG Workshop on Challenges in UV Astronomy**
     * ESO, Local organizing committee
     * Munich, Oct 2013
-  
-Professional Experience
-==============
-* **Administrative Intern**
-    * Library, Biomedical Sciences Institute, Universidade de São Paulo
-    * São Paulo, 2006 – 2008
-* **CNC Lathe Operator**
-    * York International
-    * São Paulo, 2000 - 2005
